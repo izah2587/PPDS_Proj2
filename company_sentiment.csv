@@ -1,0 +1,5 @@
+company_name,company_symbol,date,stock_change,sentiment_score
+tesla,TSLA,2024-09-25,(+1.71%),0.021969696969696965
+amazon,AMZN,2024-09-25,(+0.04%),0.15675189393939395
+apple,AAPL,2024-09-25,(+0.40%),0.07287878787878788
+cisco,CSCO,2024-09-25,(+0.43%),0.05
